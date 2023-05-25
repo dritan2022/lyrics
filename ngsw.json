@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1683896345240,
-  "index": "/lyrics/index.html",
+  "timestamp": 1685017981209,
+  "index": "/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "/lyrics/favicon.ico",
-        "/lyrics/index.html",
-        "/lyrics/main.ab9d8855be661329.js",
-        "/lyrics/manifest.webmanifest",
-        "/lyrics/polyfills.5f1cd427a0381d7e.js",
-        "/lyrics/runtime.9c957b149f24a27a.js",
-        "/lyrics/styles.ef46db3751d8e999.css"
+        "/favicon.ico",
+        "/index.html",
+        "/main.617e81edcf22b9b4.js",
+        "/manifest.webmanifest",
+        "/polyfills.f36e1ae9909732b8.js",
+        "/runtime.eb5e7f2e03fa68c7.js",
+        "/styles.65661f61b0b15f13.css"
       ],
       "patterns": []
     },
@@ -29,35 +29,41 @@
         "ignoreVary": true
       },
       "urls": [
-        "/lyrics/assets/icons/icon-128x128.png",
-        "/lyrics/assets/icons/icon-144x144.png",
-        "/lyrics/assets/icons/icon-152x152.png",
-        "/lyrics/assets/icons/icon-192x192.png",
-        "/lyrics/assets/icons/icon-384x384.png",
-        "/lyrics/assets/icons/icon-512x512.png",
-        "/lyrics/assets/icons/icon-72x72.png",
-        "/lyrics/assets/icons/icon-96x96.png"
+        "/assets/client_secret_134857059752-7d5od18gr90lra4foh5ou6iddotphepb.apps.googleusercontent.com.json",
+        "/assets/files/songListDatabase.csv",
+        "/assets/files/testing123.csv",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/lyrics/assets/icons/icon-128x128.png": "b1f06c7d714abb4a0cc4d1f7c954feb26826e4c4",
-    "/lyrics/assets/icons/icon-144x144.png": "96a0d629765c1bc85d9263c6bc83094ca776d267",
-    "/lyrics/assets/icons/icon-152x152.png": "b1fbbee3902eb96a7658e3bb006f31f78ca5a44c",
-    "/lyrics/assets/icons/icon-192x192.png": "e4211163bf0911688fbfb80278d8ff4d2f77691d",
-    "/lyrics/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "/lyrics/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "/lyrics/assets/icons/icon-72x72.png": "279825a1ac4377032ae996a1832c641e33ccf1b6",
-    "/lyrics/assets/icons/icon-96x96.png": "592885efcbfee27e5e20be4fa3043589390d2740",
-    "/lyrics/favicon.ico": "04c278dba3e54393c4c980f7fd4dcd43796ef813",
-    "/lyrics/index.html": "4863e386f2c62048ef637f035dccb11a3da4a0c4",
-    "/lyrics/main.ab9d8855be661329.js": "71624af3b7a5f786db8a95c34bc38ea20632b19f",
-    "/lyrics/manifest.webmanifest": "2c8828d6a4fdb0c0051d2e58e08171905d164a06",
-    "/lyrics/polyfills.5f1cd427a0381d7e.js": "cf12a4cd81b8a4785f92bfde3da29c3abdfbb703",
-    "/lyrics/runtime.9c957b149f24a27a.js": "3e8eaedb662bd942983836359465bac7dcdfe6ef",
-    "/lyrics/styles.ef46db3751d8e999.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "/assets/client_secret_134857059752-7d5od18gr90lra4foh5ou6iddotphepb.apps.googleusercontent.com.json": "d9e213b6b366d9e701f595a576295e66f60a615c",
+    "/assets/files/songListDatabase.csv": "a29608cc674469db4c7c40d57a198dce7a1eef21",
+    "/assets/files/testing123.csv": "be86af552e6fccd52e1ec9ab40c434ed2766d5c7",
+    "/assets/icons/icon-128x128.png": "b1f06c7d714abb4a0cc4d1f7c954feb26826e4c4",
+    "/assets/icons/icon-144x144.png": "96a0d629765c1bc85d9263c6bc83094ca776d267",
+    "/assets/icons/icon-152x152.png": "b1fbbee3902eb96a7658e3bb006f31f78ca5a44c",
+    "/assets/icons/icon-192x192.png": "e4211163bf0911688fbfb80278d8ff4d2f77691d",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "279825a1ac4377032ae996a1832c641e33ccf1b6",
+    "/assets/icons/icon-96x96.png": "592885efcbfee27e5e20be4fa3043589390d2740",
+    "/favicon.ico": "04c278dba3e54393c4c980f7fd4dcd43796ef813",
+    "/index.html": "58b0f929eb94cdb09352c6bf919b55fa2363c057",
+    "/main.617e81edcf22b9b4.js": "04c564c96ba21c54e9aebd45b5edca4cd53b14d1",
+    "/manifest.webmanifest": "2c8828d6a4fdb0c0051d2e58e08171905d164a06",
+    "/polyfills.f36e1ae9909732b8.js": "946593fc783e4e6e01b1ff8e47a7b2d9580e0690",
+    "/runtime.eb5e7f2e03fa68c7.js": "2bfe6fda0932b11c59aeae3592042057c08409d5",
+    "/styles.65661f61b0b15f13.css": "9ec853d6a1e30a69e32ea9d28167b7f7a41f071d"
   },
   "navigationUrls": [
     {
